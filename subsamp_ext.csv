@@ -1,4 +1,4 @@
-Bin,Bin name,Base (Ma),Midpoint (Ma),Collections sampled,Mean sampled diversity,3T origination rate,3T extinction rate
+Bin,Bin_name,Base_ma,Midpoint_ma,Collections_sampled,Mean_sampled_diversity,origination_3T,extinction_3T
 53,Callovian,164.7,162.9,144.5,374.4,NA,NA
 52,Bathonian,167.7,166.2,149.9,382.9,0.235,0.188
 51,Bajocian,171.6,169.6,192.4,330.8,0.692,0.182
