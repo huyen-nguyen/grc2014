@@ -1,6 +1,7 @@
-taxon,feeding_mode,movement_type,movement_speed,movement_duration,activity_quotient,calcified,lowmg_calcite
-Tabulata,1,1,1,1,1,1,1
-Rugosa,1,1,1,1,1,1,1
+taxon,feeding_mode,movement_type,movement_speed,movement_duration,activity_quotient,calcareous,calcite
+Stauriida,1,1,1,1,1,1,1
+Favositida,1,1,1,1,1,1,1
+Auloporida,1,1,1,1,1,1,1
 Scleractinia,1,1,1,1,1,1,0
 Calcarea,1,1,1,1,1,1,0
 Crinoidea,1,1,1,1,1,1,0
