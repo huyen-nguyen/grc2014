@@ -1,5 +1,7 @@
 #reads extinction data from file produced at fossilworks.org
-ext_data<-read.csv("https://github.com/mclapham/grc2014/raw/master/subsamp_ext.csv")
+library(RCurl)
+ext_url<-getURL("https://github.com/mclapham/grc2014/raw/master/subsamp_ext.csv",ssl.verifypeer = FALSE)
+ext_data<-read.csv(text=ext_url)
 
 #reads time intervals from PBDB data services
 time_int<-read.csv("http://paleobiodb.org/data1.1/intervals/list.txt?scale=1&min_ma=160&max_ma=325")
